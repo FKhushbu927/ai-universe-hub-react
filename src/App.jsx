@@ -7,10 +7,12 @@ const App = () => {
   return (
     <div>
       <Header></Header>
-     
+
       <Button>Sort By Date</Button>
-      <Card></Card>
-      <Button>See More</Button>
+      <Card>
+
+      </Card>
+
     </div>
   );
 };
